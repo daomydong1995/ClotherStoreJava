@@ -16,13 +16,12 @@ import java.util.List;
 public class AdminHome {
 
     @Autowired
-    @Qualifier("productService")
     private ProductService productService;
 
     @Autowired
     private CustomerService customerService;
 
-    @RequestMapping
+    @RequestMapping()
     public String adminPage() {
         return "admin";
     }
@@ -31,7 +30,6 @@ public class AdminHome {
     public String productInventory(Model model) {
         List<Product> products = productService.getProductList();
         model.addAttribute("products", products);
-
         return "productInventory";
     }
 

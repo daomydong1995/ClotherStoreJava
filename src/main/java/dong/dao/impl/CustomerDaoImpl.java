@@ -9,14 +9,14 @@ import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
 
 
-@Service
+@Repository
 @Transactional
 public class CustomerDaoImpl implements CustomerDao {
 
@@ -41,7 +41,7 @@ public class CustomerDaoImpl implements CustomerDao {
 
         Authorities newAuthority = new Authorities();
         newAuthority.setUsername(customer.getUsername());
-        newAuthority.setAuthority("ROLE_USER");
+        newAuthority.setAuthority("USER");
         session.saveOrUpdate(newUser);
         session.saveOrUpdate(newAuthority);
 
