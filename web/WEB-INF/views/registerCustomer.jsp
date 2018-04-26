@@ -21,8 +21,8 @@
         </div>
 
         <div class="form-group">
-            <label for="email">Email</label><span style="color: #ff0000;">  ${emailMsg} </span><form:errors
-                path="customerEmail" cssStyle="color: #ff0000;"/>
+            <label for="email">Email</label><span style="color: #ff0000;">  ${emailMsg} </span>
+            <form:errors path="customerEmail" cssStyle="color: #ff0000;"/>
             <form:input path="customerEmail" id="email" class="form-Control"/>
         </div>
 

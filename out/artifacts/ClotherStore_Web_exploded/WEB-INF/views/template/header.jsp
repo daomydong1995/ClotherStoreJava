@@ -11,7 +11,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>My Music Store</title>
+    <title>${title}</title>
 
     <!-- Angular JS -->
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.1/angular.min.js"></script>
@@ -24,14 +24,27 @@
 
 
     <!-- Bootstrap core CSS -->
-    <link href="<c:url value="/resources/css/bootstrap.min.css" />" rel="stylesheet">
+    <link href="/resources/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Carousel CSS -->
-    <link href="<c:url value="/resources/css/carousel.css" />" rel="stylesheet">
+    <script type="application/x-javascript">
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
 
-    <!-- Main CSS -->
-    <link href="<c:url value="/resources/css/main.css" />" rel="stylesheet">
-
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        } </script>
+    <!--//tags -->
+    <link href="/resources/assets/jquery-ui.css" rel="stylesheet"/>
+    <script type="text/javascript" src="/resources/assets/js/jquery-2.1.4.min.js"></script>
+    <script src="/resources/assets/js/jquery-ui.js"></script>
+    <link href="/resources/assets/css/bootstrap.css" rel="stylesheet"/>
+    <link href="/resources/assets/css/style.css" rel="stylesheet" media="all"/>
+    <link href="/resources/assets/css/font-awesome.css" rel="stylesheet"/>
+    <link href="/resources/assets/css/easy-responsive-tabs.css" rel="stylesheet"/>
+    <script src="/resources/assets/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="/resources/assets/css/flexslider.css" type="text/css" media="screen"/>
+    <script src="/resources/assets/js/imagezoom.js"></script>
     <!-- Data Table CSS -->
     <link href="https://cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css" rel="stylesheet">
 
@@ -40,48 +53,193 @@
 <!-- NAVBAR
 ================================================== -->
 <body>
-<div class="navbar-wrapper">
+<body>
+<!-- header -->
+<div class="header navbar-fixed-top " id="home">
     <div class="container">
+        <ul>
 
-        <nav class="navbar navbar-inverse navbar-static-top">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
-                            aria-expanded="false" aria-controls="navbar">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="<c:url value="/" /> ">Le's Music Store</a>
-                </div>
-                <div id="navbar" class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a href="<c:url value="/" /> ">Home</a></li>
-                        <li><a href="<c:url value="/product/productList/all" />">Products</a></li>
-                        <li><a href="<c:url value="/about" />">About</a></li>
-                    </ul>
+            <c:if test="${pageContext.request.userPrincipal.name != null}">
 
-                    <ul class="nav navbar-nav pull-right">
-                        <c:if test="${pageContext.request.userPrincipal.name != null}">
-                            <li><a>Welcome: ${pageContext.request.userPrincipal.name}</a></li>
-                            <li><a href="<c:url value="/logout" />">Logout</a></li>
-                            <c:if test="${pageContext.request.userPrincipal.name !='admin'}">
-                                <li><a href="<c:url value="/cart" />">Cart</a></li>
-                            </c:if>
-                            <c:if test="${pageContext.request.userPrincipal.name =='admin'}">
-                                <li><a href="<c:url value="/admin" />">Admin</a></li>
-                            </c:if>
-                        </c:if>
-                        <c:if test="${pageContext.request.userPrincipal.name == null}">
-                            <li><a href="<c:url value="/login" />">Login</a></li>
-                            <li><a href="<c:url value="/register" />">Register</a></li>
-                        </c:if>
-                    </ul>
+                <li><a>Xin chào :<i class="fa fa-user"></i>${pageContext.request.userPrincipal.name}</a></li>
+                <li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:daomydong1995@gmail.com">daomydong1995@gmail.com</a>
+                </li>
+                <li><a class="btn-link" style="margin:6px;display:block;" href="/Cart/ShoppingCart"><i
+                        class="fa fa-shopping-cart"></i>[<b id="TTGioHang">0</b>] sản phẩm</a></li>
+                <li><a href="#" onclick="Logout()" class="btn-link"><i class="fa fa-sign-out"></i> Thoát</a></li>
+            </c:if>
+            <c:if test="${pageContext.request.userPrincipal.name == null}">
+                <li><a href="#" id="signin" data-toggle="modal" data-target="#myModal"><i class="fa fa-unlock-alt"
+                                                                                          aria-hidden="true"></i> Sign
+                    In </a></li>
+                <li><a href="#" id="signup" data-toggle="modal" data-target="#myModal2"><i class="fa fa-pencil-square-o"
+                                                                                           aria-hidden="true"></i> Sign
+                    Up </a></li>
+                <li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:daomydong1995@gmail.com">daomydong1995@gmail.com</a>
+                </li>
+                <li><a class="btn-link" style="margin:6px;display:block;" href="/Cart/ShoppingCart"><i
+                        class="fa fa-shopping-cart"></i>[<b id="TTGioHang">0</b>] sản phẩm</a></li>
+            </c:if>
 
-                </div>
-            </div>
-        </nav>
-
+        </ul>
     </div>
 </div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body modal-body-sub_agile">
+                <div class="col-md-8 modal_body_left modal_body_left1">
+                    <h3 class="agileinfo_sign">Sign In <span>Now</span></h3>
+
+                    <div class="styled-input agile-styled-input-top">
+                        <input id="username" type="text" name="username" required="">
+                        <label>Username</label>
+                        <span></span>
+                    </div>
+                    <p><form:errors path="username" cssStyle="color: #ff0000;"/></p>
+                    <div class="styled-input">
+                        <input id="password" type="password" name="password" required="">
+                        <label>Password</label>
+                        <span></span>
+                    </div>
+                    <button class="btn btn-danger" onclick="return Login()" value="Sign In">Sign In</button>
+                    <p><form:errors path="password" cssStyle="color: #ff0000;"/></p>
+                    <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}" />
+                    <ul class="social-nav model-3d-0 footer-social w3_agile_social top_agile_third">
+                        <li>
+                            <a href="#" class="facebook">
+                                <div class="front"><i class="fa fa-facebook" aria-hidden="true"></i></div>
+                                <div class="back"><i class="fa fa-facebook" aria-hidden="true"></i></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="twitter">
+                                <div class="front"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+                                <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="instagram">
+                                <div class="front"><i class="fa fa-instagram" aria-hidden="true"></i></div>
+                                <div class="back"><i class="fa fa-instagram" aria-hidden="true"></i></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="pinterest">
+                                <div class="front"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
+                                <div class="back"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                    <p><a href="#" data-toggle="modal" data-target="#myModal2"> Don't have an account?</a></p>
+
+                </div>
+                <div class="col-md-4 modal_body_right modal_body_right1">
+                    <img src="/resources/assets/images/log_pic.jpg" alt=" "/>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <!-- //Modal content-->
+    </div>
+</div>
+<!-- //Modal1 -->
+<!-- Modal2 -->
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body modal-body-sub_agile">
+                <div class="col-md-8 modal_body_left modal_body_left1">
+                    <h3 class="agileinfo_sign">Sign Up <span>Now</span></h3>
+                    <form action="#" method="post">
+                        <div class="styled-input agile-styled-input-top">
+                            <input type="text" name="Name" required="">
+                            <label>Name</label>
+                            <span></span>
+                        </div>
+                        <div class="styled-input">
+                            <input type="email" name="Email" required="">
+                            <label>Email</label>
+                            <span></span>
+                        </div>
+                        <div class="styled-input">
+                            <input type="password" name="password" required="">
+                            <label>Password</label>
+                            <span></span>
+                        </div>
+                        <div class="styled-input">
+                            <input type="password" name="Confirm Password" required="">
+                            <label>Confirm Password</label>
+                            <span></span>
+                        </div>
+                        <input type="submit" value="Sign Up">
+                    </form>
+                    <ul class="social-nav model-3d-0 footer-social w3_agile_social top_agile_third">
+                        <li>
+                            <a href="#" class="facebook">
+                                <div class="front"><i class="fa fa-facebook" aria-hidden="true"></i></div>
+                                <div class="back"><i class="fa fa-facebook" aria-hidden="true"></i></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="twitter">
+                                <div class="front"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+                                <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="instagram">
+                                <div class="front"><i class="fa fa-instagram" aria-hidden="true"></i></div>
+                                <div class="back"><i class="fa fa-instagram" aria-hidden="true"></i></div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="pinterest">
+                                <div class="front"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
+                                <div class="back"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                    <p><a href="#">By clicking register, I agree to your terms</a></p>
+
+                </div>
+                <div class="col-md-4 modal_body_right modal_body_right1">
+                    <img src="/resources/assets/images/log_pic.jpg" alt=" "/>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <!-- //Modal content-->
+    </div>
+</div>
+<script type="text/javascript">
+    <c:url value="/login" var="url"/>
+    function Login() {
+        var user = $('#username').val();
+        var pass = $('#password').val();
+        alert("Con chào bác")
+        $.ajax({
+            url: "${url}",
+            data: JSON.stringify({ username: user, password: pass }),
+            contentType: "application/json;charset=utf-8",
+            dataType: 'json',
+            type: "POST",
+            success: function (result) {
+                window.location.href = "/";
+                $('#myModal').modal('hide');
+                $('#signin').hide();
+                $('#signup').hide();
+            }
+        });
+    }
+</script>

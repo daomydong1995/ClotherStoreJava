@@ -15,12 +15,14 @@ import javax.servlet.http.HttpServletResponse;
 public class HomeController {
 
     @RequestMapping("/")
-    public String home() {
+    public String home(Model model) {
+        model.addAttribute("title","Home");
         return "home";
     }
 
     @RequestMapping("/about")
-    public String about() {
+    public String about(Model model) {
+        model.addAttribute("title","About");
         return "about";
     }
 
@@ -36,15 +38,16 @@ public class HomeController {
         if(logout!= null) {
             model.addAttribute("msg", "You have been logged out successfully.");
         }
-
+        model.addAttribute("title","Login");
         return "login";
     }
     @RequestMapping("/logout")
-    public String logout(HttpServletRequest request, HttpServletResponse response){
+    public String logout(HttpServletRequest request, HttpServletResponse response,Model model){
         Authentication authenticator = SecurityContextHolder.getContext().getAuthentication();
         if (authenticator != null){
             new SecurityContextLogoutHandler().logout(request,response,authenticator);
         }
+        model.addAttribute("title","Logout");
         return "redirect:/login";
     }
 }
