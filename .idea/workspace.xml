@@ -6,231 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b27b4462-fa5a-4d90-964e-2159906e773b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/PagedList.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/Site.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/css/easy-responsive-tabs.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/css/flexslider.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/css/jquery-ui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/css/team.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/ab_pic.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/b1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/b2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/b3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/b4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/b5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/b6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/b7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/b8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/banner1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/banner2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/banner3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/banner4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/banner5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/bb1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/bb2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/bot_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/bot_2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/bottom1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/bottom2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/bottom3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/bottom4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/btn_next.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/btn_pause.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/btn_play.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/btn_prev.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/close_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/d1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/d2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/d3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/inner1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/inner2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/log_pic.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/m1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/m2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/m3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/m4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/m5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/m6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/m7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/m8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/mark1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/mid.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/s1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/s2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/s3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/s4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/s5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/s6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/s7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/s8.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/s8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/search.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/t1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/t2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/t3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/t4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/tick-mark1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/top1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/top2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/up_arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/w1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/w2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/w3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/w4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/w5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/w6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/w7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/images/w8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/easy-responsive-tabs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/imagezoom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/jquery-2.1.4.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/jquery-ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/jquery.countup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/jquery.easing.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/jquery.flexslider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/jquery.waypoints.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/minicart.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/modernizr.custom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/move-top.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/responsiveslides.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap-theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap-theme.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/admin.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/b1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/b2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/b3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/b4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/b5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/b6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/b7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/b8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/bb1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/bottom3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/bottom4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/d1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/d2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/d3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/log_pic.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/m1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/m2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/m3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/m4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/m5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/m6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/m7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/m8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/s1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/s2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/s3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/s4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/s5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/s6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/s7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/s8.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/s8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/t1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/t2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/t3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/t4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/w1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/w2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/w3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/w4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/w5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/w6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/w7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/images/w8.jpg" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/HomeController.class" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/HomeController.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/css/carousel.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/css/table.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/15.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/17.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/18.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/19.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/20.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/21.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/accessory.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/back1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/back2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/back3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/instrument.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/record.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/images/showroom.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/js/controller.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/js/jquery-1.11.3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/registerCustomer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/registerCustomer.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/template/footer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/template/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/template/header.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/template/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dong/controller/HomeController.java" afterPath="$PROJECT_DIR$/src/main/java/dong/controller/HomeController.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dong/controller/HomeController.class" afterPath="$PROJECT_DIR$/target/classes/dong/controller/HomeController.class" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap-theme.min.css" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/css/carousel.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/css/table.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/13.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/14.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/15.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/17.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/18.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/19.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/20.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/21.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/accessory.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/back1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/back2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/back3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/instrument.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/record.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/images/showroom.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/js/controller.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/js/jquery-1.11.3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/registerCustomer.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/registerCustomer.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/template/footer.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/template/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/template/header.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/template/header.jsp" />
-    </list>
+    <list default="true" id="b27b4462-fa5a-4d90-964e-2159906e773b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -762,7 +538,7 @@
       <workItem from="1524665381420" duration="185000" />
       <workItem from="1524665669213" duration="13399000" />
       <workItem from="1524680077180" duration="460000" />
-      <workItem from="1524731475162" duration="8869000" />
+      <workItem from="1524731475162" duration="8919000" />
     </task>
     <task id="LOCAL-00001" summary="comit :errow can't creating Bean">
       <created>1524680693908</created>
@@ -775,11 +551,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40571000" />
+    <option name="totallyTimeSpent" value="40621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -791,7 +566,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35948363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35948363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
