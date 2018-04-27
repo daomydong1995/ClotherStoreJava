@@ -65,14 +65,13 @@
         </li>
         <li><a class="btn-link" style="margin:6px;display:block;" href="/Cart/ShoppingCart"><i
             class="fa fa-shopping-cart"></i>[<b id="TTGioHang">0</b>] sản phẩm</a></li>
-        <c:url value="/logout"/>
-        <li><a href="<c:url value="/logout"/>" class="btn-link"><i class="fa fa-sign-out"></i> Thoát</a></li>
+        <li><a href="" onclick="location.href='/logout'" class="btn-link"><i class="fa fa-sign-out"></i> Thoát</a></li>
       </c:if>
       <c:if test="${pageContext.request.userPrincipal.name == null}">
         <li><a href="#" id="signin" data-toggle="modal" data-target="#myModal"><i class="fa fa-unlock-alt"
                                                                                   aria-hidden="true"></i> Sign In </a>
         </li>
-        <li><a href="#" id="signup" data-toggle="modal" data-target="#myModal2"><i class="fa fa-pencil-square-o"
+        <li><a href="#" id="signup" onclick="location.href='/register'"><i class="fa fa-pencil-square-o"
                                                                                    aria-hidden="true"></i> Sign Up </a>
         </li>
         <li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:daomydong1995@gmail.com">daomydong1995@gmail.com</a>
