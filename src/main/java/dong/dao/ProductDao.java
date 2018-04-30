@@ -10,6 +10,8 @@ public interface ProductDao {
 
     List<Product> getProductList();
 
+    List<Product> findAll(Integer offset, Integer maxResults);
+
     void addProduct(Product product);
 
     void editProduct(Product product);

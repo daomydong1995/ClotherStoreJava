@@ -10,6 +10,7 @@ public interface ProductService {
     Product getProductById(int id);
 
     List<Product> getProductList();
+    List<Product> findAll(Integer offset, Integer maxResults);
 
     void addProduct(Product product);
 

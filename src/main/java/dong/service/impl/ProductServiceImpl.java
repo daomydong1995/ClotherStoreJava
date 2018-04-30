@@ -24,6 +24,12 @@ public class ProductServiceImpl implements ProductService {
         return productDao.getProductList();
     }
 
+    @Override
+    public List<Product> findAll(Integer offset, Integer maxResults) {
+        return productDao.findAll(offset,maxResults);
+    }
+
+
     public void addProduct(Product product) {
         productDao.addProduct(product);
     }

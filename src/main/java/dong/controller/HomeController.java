@@ -36,7 +36,7 @@ public class HomeController {
         if(logout!= null) {
             model.addAttribute("msg", "You have been logged out successfully.");
         }
-        return "/";
+        return  "home";
     }
     @RequestMapping("/logout")
     public String logout(HttpServletRequest request, HttpServletResponse response,Model model){
@@ -44,6 +44,6 @@ public class HomeController {
         if (authenticator != null){
             new SecurityContextLogoutHandler().logout(request,response,authenticator);
         }
-        return "/";
+        return "redirect:";
     }
 }

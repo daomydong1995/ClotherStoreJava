@@ -13,33 +13,37 @@ import javax.sql.DataSource;
 @Configuration
 @EnableWebSecurity
 public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
-    @Autowired
-    DataSource dataSource;
+  @Autowired
+  DataSource dataSource;
 
-    @Override
-    protected void configure(AuthenticationManagerBuilder auth) throws Exception {
+  @Override
+  protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 //    super.configure(auth);
-        auth.jdbcAuthentication().dataSource(dataSource)
-                .usersByUsernameQuery("SELECT username, password, enabled FROM users WHERE username = ?")
-                .authoritiesByUsernameQuery("SELECT username, authority From authorities WHERE username = ?");
-    }
+    auth.jdbcAuthentication().dataSource(dataSource)
+        .usersByUsernameQuery("SELECT username, password, enabled FROM users WHERE username = ?")
+        .authoritiesByUsernameQuery("SELECT username, authority From authorities WHERE username = ?");
+  }
 
-    @Override
-    protected void configure(HttpSecurity http) throws Exception {
+  @Override
+  protected void configure(HttpSecurity http) throws Exception {
 //    super.configure(http);
-        http.csrf().disable().authorizeRequests().antMatchers("/admin/**")
-                .access("hasRole('ADMIN')")
-                .and().authorizeRequests().antMatchers("/customer/**")
-                .access("hasRole('USER')")
-                .anyRequest().permitAll()
-                .and().formLogin().loginPage("/login").loginProcessingUrl("/login")
-                .usernameParameter("username").passwordParameter("password").defaultSuccessUrl("/")
-                .failureUrl("/login?error=failed").and().exceptionHandling().accessDeniedPage("/login?error=deny");
-    }
+    http.csrf().disable();
+    http.authorizeRequests().antMatchers("/admin/**").access("hasRole('ADMIN')");
+    http.authorizeRequests().antMatchers("/customer/**").access("hasRole('USER')");
+    http.authorizeRequests().anyRequest().permitAll();
+    http.authorizeRequests().and().formLogin()
+//        .loginPage("/login")
+        .loginProcessingUrl("/login")
+        .usernameParameter("username").passwordParameter("password")
+        // sau khi submit form login thanh cong
+        .defaultSuccessUrl("/admin")
+        .failureUrl("/login?error=failed").and().exceptionHandling().accessDeniedPage("/login?error=deny")
+        .and().logout().logoutUrl("/logout").logoutSuccessUrl("/");
+  }
 
-    @Override
-    public void configure(WebSecurity web) throws Exception {
+  @Override
+  public void configure(WebSecurity web) throws Exception {
 //    super.configure(web);
-        web.ignoring().antMatchers("/resources/**");
-    }
+    web.ignoring().antMatchers("/resources/**");
+  }
 }

@@ -36,6 +36,17 @@ public class ProductDaoImpl implements ProductDao {
         return productList;
     }
 
+    @Override
+    public List<Product> findAll(Integer offset, Integer maxResults) {
+        List<Product> list = sessionFactory.openSession()
+            .createCriteria(Product.class)
+            .setFirstResult(offset!=null?offset:0)
+            .setMaxResults(maxResults!=null?maxResults:10)
+            .list();
+        return list;
+    }
+
+
     public void addProduct(Product product) {
         Session session = sessionFactory.getCurrentSession();
         session.saveOrUpdate(product);
