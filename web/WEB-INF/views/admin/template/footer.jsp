@@ -16,7 +16,7 @@
 <!-- end wrapper -->
 <!-- Core Scripts - Include with every page -->
 
-<script src="/resources/admin/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
 <script src="/resources/admin/plugins/metisMenu/jquery.metisMenu.js"></script>
 <script src="/resources/admin/plugins/pace/pace.js"></script>
 <script src="/resources/admin/scripts/siminta.js"></script>

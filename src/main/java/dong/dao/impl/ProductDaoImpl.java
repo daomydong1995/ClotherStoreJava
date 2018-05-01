@@ -40,7 +40,7 @@ public class ProductDaoImpl implements ProductDao {
     public List<Product> findAll(Integer offset, Integer maxResults) {
         List<Product> list = sessionFactory.openSession()
             .createCriteria(Product.class)
-            .setFirstResult(offset!=null?offset:0)
+            .setFirstResult(offset!=null?offset*(maxResults!=null?maxResults:10):0)
             .setMaxResults(maxResults!=null?maxResults:10)
             .list();
         return list;

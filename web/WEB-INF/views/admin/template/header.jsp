@@ -11,21 +11,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>@ViewBag.Title</title>
 
-  <link href="/resources/admin/plugins/bootstrap/bootstrap.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/resources/admin/plugins/bootstrap/bootstrap.css">
   <link href="/resources/admin/font-awesome/css/font-awesome.css" rel="stylesheet" />
   <link href="/resources/admin/plugins/pace/pace-theme-big-counter.css" rel="stylesheet" />
   <link href="/resources/admin/css/style.css" rel="stylesheet" />
   <link href="/resources/admin/css/main-style.css" rel="stylesheet" />
   <link href="/resources/admin/plugins/morris/morris-0.4.3.min.css" rel="stylesheet" />
-
-
   <script src="/resources/admin/plugins/jquery-1.10.2.js"></script>
   <%--<script src="~/Content/ckfinder/ckfinder.js"></script>--%>
   <%--<script src="~/Scripts/ckeditor/ckeditor.js"></script>--%>
-  <%--<script src="~/Scripts/jquery.twbsPagination.js"></script>--%>
-
-
-
+  <script src="/resources/assets/js/jquery.twbsPagination.js" type="text/javascript"></script>
 </head>
 <body class="body-content">
 <!--  wrapper -->
