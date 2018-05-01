@@ -6,26 +6,73 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b27b4462-fa5a-4d90-964e-2159906e773b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dong/model/CustomReponse/ModelReponse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/jquery.twbsPagination.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/js/jquery.twbsPagination.min.js" />
+    <list default="true" id="b27b4462-fa5a-4d90-964e-2159906e773b" name="Default" comment="commit : jQuery Pagination Demo ,json reponse demo">
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/model/CustomReponse/ModelReponse.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/css/main-style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/font-awesome/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/img/bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/img/user.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/bootstrap/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/bootstrap/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/bootstrap/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/dataTables/dataTables.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/dataTables/dataTables.bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/dataTables/jquery.dataTables.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/flot/excanvas.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/flot/jquery.flot.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/flot/jquery.flot.pie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/flot/jquery.flot.resize.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/flot/jquery.flot.tooltip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/jquery-1.10.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/metisMenu/jquery.metisMenu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/morris/morris-0.4.3.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/morris/morris.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/morris/raphael-2.1.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/pace/pace-theme-big-counter.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/pace/pace.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/social-buttons/social-buttons.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/plugins/timeline/timeline.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/scripts/dashboard-demo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/scripts/flot-demo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/scripts/morris-demo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/admin/scripts/siminta.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/assets/js/jquery.twbsPagination.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/assets/js/jquery.twbsPagination.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/imageUpload/10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/imageUpload/11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/imageUpload/12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/imageUpload/13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/imageUpload/14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/imageUpload/15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/imageUpload/8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/imageUpload/9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/imageUpload/hdd-vs-ssd.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/spring.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/home.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/productInventory.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/template/footer.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/template/header.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dong/model/CustomReponse/ModelReponse.class" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/configuration/HelloWorldConfiguration.class" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/configuration/HelloWorldConfiguration.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/admin/AdminHome.class" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/admin/AdminHome.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/admin/AdminProduct.class" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/admin/AdminProduct.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/addProduct.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/addProduct.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dong/PaginationTaglib.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dong/configuration/HelloWorldConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/dong/configuration/HelloWorldConfiguration.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminHome.java" afterPath="$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminHome.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dong/dao/impl/ProductDaoImpl.java" afterPath="$PROJECT_DIR$/src/main/java/dong/dao/impl/ProductDaoImpl.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dong/configuration/HelloWorldConfiguration.class" afterPath="$PROJECT_DIR$/target/classes/dong/configuration/HelloWorldConfiguration.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dong/controller/admin/AdminHome.class" afterPath="$PROJECT_DIR$/target/classes/dong/controller/admin/AdminHome.class" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/addProduct.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/addProduct.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/admin/productInventory.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/admin/productInventory.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/admin/template/footer.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/admin/template/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/admin/template/header.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/admin/template/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/tablibs/customTaglib.tld" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/dao/impl/ProductDaoImpl.class" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/dao/impl/ProductDaoImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dong/dao/impl/ProductDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/dong/dao/impl/ProductDaoImpl.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,7 +91,7 @@
       <file leaf-file-name="productInventory.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/admin/productInventory.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-260">
+            <state relative-caret-position="510">
               <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
               <folding>
                 <marker date="1525158140507" expanded="true" signature="1383:1397" ph="..." />
@@ -56,7 +103,7 @@
       <file leaf-file-name="AdminHome.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminHome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
+            <state relative-caret-position="493">
               <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="34" />
               <folding />
             </state>
@@ -66,7 +113,7 @@
       <file leaf-file-name="SecurityConfiguration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/configuration/SecurityConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="374">
               <caret line="30" column="80" lean-forward="false" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
               <folding />
             </state>
@@ -76,7 +123,7 @@
       <file leaf-file-name="HelloWorldConfiguration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/configuration/HelloWorldConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="306">
               <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
@@ -115,7 +162,7 @@
       <file leaf-file-name="ProductService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/service/ProductService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
+            <state relative-caret-position="170">
               <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding />
             </state>
@@ -125,8 +172,8 @@
       <file leaf-file-name="ProductServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/service/impl/ProductServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="272">
+              <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
               <folding>
                 <element signature="e#730#731#0" expanded="true" />
                 <element signature="e#790#791#0" expanded="true" />
@@ -138,7 +185,7 @@
       <file leaf-file-name="ProductDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/dao/ProductDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
+            <state relative-caret-position="170">
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
@@ -148,8 +195,8 @@
       <file leaf-file-name="ProductDaoImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/dao/impl/ProductDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="379">
+              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -298,10 +345,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="-98" />
+    <option name="y" value="41" />
+    <option name="width" value="1380" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -321,8 +368,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -481,7 +529,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -704,7 +751,8 @@
       <workItem from="1524986345640" duration="154000" />
       <workItem from="1525069694938" duration="463000" />
       <workItem from="1525070413437" duration="26864000" />
-      <workItem from="1525105842765" duration="20538000" />
+      <workItem from="1525105842765" duration="20652000" />
+      <workItem from="1525158459740" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="comit :errow can't creating Bean">
       <created>1524680693908</created>
@@ -720,11 +768,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525100391922</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit : jQuery Pagination Demo ,json reponse demo">
+      <created>1525158343073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525158343073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100081000" />
+    <option name="totallyTimeSpent" value="100265000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -748,9 +803,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3576052" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36288998" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -759,18 +813,19 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48220065" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2927383" sideWeight="0.71284634" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980333" sideWeight="0.7055016" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2927383" sideWeight="0.28715366" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980333" sideWeight="0.29449838" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2881997" sideWeight="0.2716346" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -853,7 +908,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comit :errow can't creating Bean" />
     <MESSAGE value="commit : demo Controller Admin" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit : demo Controller Admin" />
+    <MESSAGE value="commit : jQuery Pagination Demo ,json reponse demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit : jQuery Pagination Demo ,json reponse demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1007,7 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2210">
           <caret line="130" column="79" lean-forward="false" selection-start-line="130" selection-start-column="79" selection-end-line="130" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,7 +1096,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="63" column="40" lean-forward="false" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1092,14 +1146,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/taglibs/customTaglib.tld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/taglibs/customTaglib.tld" />
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="657">
@@ -1112,7 +1159,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
           <caret line="39" column="8" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="39" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,18 +1166,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dong/taglib/PaginationTaglib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/taglib/PaginationTaglib.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/model/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1140,51 +1178,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/admin/scripts/jquery-3.3.1.min.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/admin/scripts/jquery-3.3.1.min.map" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/assets/js/jquery-2.1.4.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="3" column="8324" lean-forward="false" selection-start-line="3" selection-start-column="8324" selection-end-line="3" selection-end-column="8324" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/admin/plugins/jquery-1.10.2.min.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="0" column="514" lean-forward="false" selection-start-line="0" selection-start-column="514" selection-end-line="0" selection-end-column="514" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/admin/plugins/jquery-3.3.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/admin/plugins/jquery-3.3.1.min.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/admin/plugins/jquery-1.10.2.min.map" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/admin/plugins/jquery-3.3.1.min.js" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/admin/plugins/jquery-3.3.1.min.map" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/core-scripting.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
           <caret line="56" column="22" lean-forward="false" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1192,7 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,7 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="80" lean-forward="true" selection-start-line="0" selection-start-column="80" selection-end-line="0" selection-end-column="80" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1208,7 +1214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1230,7 +1235,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/configuration/HelloWorldConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="306">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
@@ -1238,7 +1243,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/configuration/SecurityConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="374">
           <caret line="30" column="80" lean-forward="false" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
           <folding />
         </state>
@@ -1246,7 +1251,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/dao/ProductDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="170">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
@@ -1254,8 +1259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/service/impl/ProductServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="272">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           <folding>
             <element signature="e#730#731#0" expanded="true" />
             <element signature="e#790#791#0" expanded="true" />
@@ -1265,7 +1270,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/service/ProductService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
+        <state relative-caret-position="170">
           <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding />
         </state>
@@ -1298,7 +1303,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/admin/productInventory.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
+        <state relative-caret-position="510">
           <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding>
             <marker date="1525158140507" expanded="true" signature="1383:1397" ph="..." />
@@ -1308,7 +1313,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminHome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
+        <state relative-caret-position="493">
           <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="34" />
           <folding />
         </state>
@@ -1316,8 +1321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/dao/impl/ProductDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="379">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
           <folding />
         </state>
       </provider>
