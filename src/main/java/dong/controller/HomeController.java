@@ -1,5 +1,7 @@
 package dong.controller;
 
+import dong.service.ProductService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.web.authentication.logout.SecurityContextLogoutHandler;
@@ -10,12 +12,19 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
 @Controller
 public class HomeController {
+    @Autowired
+    private ProductService productService;
 
     @RequestMapping("/")
     public String home(Model model) {
+        model.addAttribute("ProductsMen",productService.findAll(0,8));
+        model.addAttribute("ProductsWomen",productService.findAll(0,8));
+        model.addAttribute("ProductsBag",productService.findAll(0,8));
+        model.addAttribute("ProductsFootwear",productService.findAll(0,8));
         return "home";
     }
 

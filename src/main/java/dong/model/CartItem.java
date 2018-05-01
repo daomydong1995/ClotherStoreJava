@@ -31,6 +31,15 @@ public class CartItem implements Serializable{
     @JsonIgnore
     private List<OrderHistory> orderHistoryList;
 
+    public CartItem() {
+    }
+
+    public CartItem(Product product, int quantity, double totalPrice) {
+        this.product = product;
+        this.quantity = quantity;
+        this.totalPrice = totalPrice;
+    }
+
     public int getCartItemId() {
         return cartItemId;
     }
