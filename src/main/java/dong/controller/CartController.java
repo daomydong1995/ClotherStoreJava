@@ -1,9 +1,7 @@
 package dong.controller;
 
-import com.fasterxml.jackson.annotation.JsonView;
 import dong.model.CartItem;
 import dong.model.Customer;
-import dong.service.CartService;
 import dong.service.CustomerService;
 import dong.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -42,7 +40,7 @@ public class CartController {
     return "cart";
   }
 
-  @RequestMapping(value = "AddToCart", method = RequestMethod.POST)
+  @RequestMapping(value = "/AddToCart", method = RequestMethod.POST)
   public @ResponseBody
   Object AddToCart(HttpSession session, @RequestParam("id") int id) {
     List<CartItem> giohang = null;

@@ -7,50 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b27b4462-fa5a-4d90-964e-2159906e773b" name="Default" comment="commit : jQuery Pagination Demo ,json reponse demo">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e5c631cd69cd32f62483335eb06c85ad63a46f4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fbda1c376a63b937f69185faf96f93f4a6c26a9" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fbda1c376a63b937f69185faf96f93f4a6c26a9" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d2fa91a2a29643eb8e367b1891f9724a538b2bb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c82e137a32d2c425833b576179dc3ba0ff94ac4e" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea027d57f185ea50da640bb36a05bd0a6f2ef72a" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea027d57f185ea50da640bb36a05bd0a6f2ef72a" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/META-INF/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/admin/AdminHome.class" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/admin/AdminHome.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/admin/AdminProduct.class" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/classes/dong/controller/admin/AdminProduct.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/PagedList.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/assets/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/bootstrap-theme.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/resources/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/addProduct.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/productInventory.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/productInventory.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/template/footer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/template/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/template/header.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/admin/template/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/template/header.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ClotherStore_Web_exploded/WEB-INF/views/template/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminHome.java" afterPath="$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminHome.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminProduct.java" afterPath="$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminProduct.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dong/controller/admin/AdminHome.class" afterPath="$PROJECT_DIR$/target/classes/dong/controller/admin/AdminHome.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dong/controller/admin/AdminProduct.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/PagedList.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/assets/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap-theme.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/resources/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/addProduct.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/admin/productInventory.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/admin/productInventory.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/admin/template/footer.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/admin/template/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/admin/template/header.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/admin/template/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/template/header.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/views/template/header.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dong/controller/CartController.java" afterPath="$PROJECT_DIR$/src/main/java/dong/controller/CartController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dong/controller/CartResources.java" afterPath="$PROJECT_DIR$/src/main/java/dong/controller/CartResources.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,51 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AdminHome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminHome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ProductController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/ProductController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cart.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/cart.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdminProduct.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-246">
-              <caret line="30" column="42" lean-forward="false" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/admin/template/footer.jsp">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/RegisterController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="636">
+              <caret line="61" column="32" lean-forward="false" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -119,18 +47,18 @@
       <file leaf-file-name="CartController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/CartController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+            <state relative-caret-position="-237">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/CustomerController.java">
+      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -139,28 +67,18 @@
       <file leaf-file-name="CartResources.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/CartResources.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="43" />
+            <state relative-caret-position="231">
+              <caret line="50" column="35" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/admin/template/header.jsp">
+      <file leaf-file-name="CustomerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-41">
-              <caret line="313" column="17" lean-forward="true" selection-start-line="313" selection-start-column="17" selection-end-line="313" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/admin/home.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="25" column="60" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="60" />
+            <state relative-caret-position="135">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -238,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/dong/model/BillingAddress.java" />
         <option value="$PROJECT_DIR$/src/main/java/dong/model/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/dong/configuration/WebMvcConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/dong/configuration/WebInit.java" />
@@ -280,7 +197,6 @@
         <option value="$PROJECT_DIR$/src/main/java/dong/model/Cart.java" />
         <option value="$PROJECT_DIR$/src/main/java/dong/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/dong/model/CartItem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dong/controller/CartController.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/template/footer.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/admin/template/footer.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/template/header.jsp" />
@@ -289,6 +205,8 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/views/admin/productInventory.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminProduct.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/admin/template/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/dong/controller/CartResources.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dong/controller/CartController.java" />
       </list>
     </option>
   </component>
@@ -461,7 +379,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2850575" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSP" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/SpringHibernatePagination-master" />
   </component>
@@ -679,7 +597,7 @@
       <workItem from="1525158459740" duration="70000" />
       <workItem from="1525159481376" duration="17098000" />
       <workItem from="1525228006780" duration="314000" />
-      <workItem from="1525249053996" duration="4653000" />
+      <workItem from="1525249053996" duration="7819000" />
     </task>
     <task id="LOCAL-00001" summary="comit :errow can't creating Bean">
       <created>1524680693908</created>
@@ -706,7 +624,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122330000" />
+    <option name="totallyTimeSpent" value="125496000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -858,7 +776,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="82" />
+      <option name="time" value="83" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -912,24 +830,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dong/PaginationResult.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dong/PaginationTaglib.java" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/tablibs/customTaglib.tld" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/admin/img/user.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/loginSuccess.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
@@ -1096,26 +997,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/model/CartItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/RegisterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1169,7 +1054,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-246">
+        <state relative-caret-position="-7">
           <caret line="30" column="42" lean-forward="false" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding />
         </state>
@@ -1186,23 +1071,15 @@
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/admin/template/header.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-41">
-          <caret line="313" column="17" lean-forward="true" selection-start-line="313" selection-start-column="17" selection-end-line="313" selection-end-column="17" />
+          <caret line="313" column="17" lean-forward="false" selection-start-line="313" selection-start-column="17" selection-end-line="313" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/admin/AdminHome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="-7">
           <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1215,26 +1092,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/CartController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        <state relative-caret-position="100">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/dao/impl/CustomerDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/dao/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/service/impl/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="61" column="32" lean-forward="false" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dong/controller/CartResources.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="43" />
+        <state relative-caret-position="231">
+          <caret line="50" column="35" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="35" />
           <folding />
         </state>
       </provider>
