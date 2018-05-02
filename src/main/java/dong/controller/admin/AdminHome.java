@@ -31,6 +31,11 @@ public class AdminHome {
 
     @RequestMapping(value = "/productInventory",method = RequestMethod.GET)
     public String productInventory(Model model) {
+        Product product = new Product();
+        product.setProductCategory("instrument");
+        product.setProductCondition("new");
+        product.setProductStatus("active");
+        model.addAttribute("product", product);
         return "admin/productInventory";
     }
     @RequestMapping(value = "/productList",method = RequestMethod.GET)

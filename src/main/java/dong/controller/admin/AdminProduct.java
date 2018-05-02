@@ -30,18 +30,6 @@ public class AdminProduct {
     @Autowired
     private ProductService productService;
 
-    @RequestMapping("/product/addProduct")
-    public String addProduct(Model model) {
-        Product product = new Product();
-        product.setProductCategory("instrument");
-        product.setProductCondition("new");
-        product.setProductStatus("active");
-
-        model.addAttribute("product", product);
-
-        return "addProduct";
-    }
-
     @RequestMapping(value = "/product/addProduct", method = RequestMethod.POST)
     public String addProductPost(@Valid @ModelAttribute("product") Product product, BindingResult result,
                                  HttpServletRequest request) {

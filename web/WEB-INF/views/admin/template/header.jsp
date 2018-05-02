@@ -1,23 +1,25 @@
 <!DOCTYPE html>
-<%@taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
+<%@taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <%@taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="security" uri="http://www.springframework.org/security/tags" %>
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>@ViewBag.Title</title>
 
-  <link rel="stylesheet" href="/resources/admin/plugins/bootstrap/bootstrap.css">
-  <link href="/resources/admin/font-awesome/css/font-awesome.css" rel="stylesheet" />
-  <link href="/resources/admin/plugins/pace/pace-theme-big-counter.css" rel="stylesheet" />
-  <link href="/resources/admin/css/style.css" rel="stylesheet" />
-  <link href="/resources/admin/css/main-style.css" rel="stylesheet" />
-  <link href="/resources/admin/plugins/morris/morris-0.4.3.min.css" rel="stylesheet" />
-  <script src="/resources/admin/plugins/jquery-1.10.2.js"></script>
+  <link href="/resources/assets/css/bootstrap.min.css" rel="stylesheet" />
+  <script type="text/javascript" src="/resources/assets/js/jquery-2.1.4.min.js"></script>
+  <script src="/resources/admin/plugins/bootstrap/bootstrap.min.js"></script>
+  <link href="/resources/admin/font-awesome/css/font-awesome.css" rel="stylesheet"/>
+  <link href="/resources/admin/plugins/pace/pace-theme-big-counter.css" rel="stylesheet"/>
+  <link href="/resources/admin/css/style.css" rel="stylesheet"/>
+  <link href="/resources/admin/css/main-style.css" rel="stylesheet"/>
+  <link href="/resources/admin/plugins/morris/morris-0.4.3.min.css" rel="stylesheet"/>
+  <%--<script src="/resources/admin/plugins/jquery-1.10.2.js"></script>--%>
   <%--<script src="~/Content/ckfinder/ckfinder.js"></script>--%>
   <%--<script src="~/Scripts/ckeditor/ckeditor.js"></script>--%>
   <script src="/resources/assets/js/jquery.twbsPagination.js" type="text/javascript"></script>
@@ -37,7 +39,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="index.html">
-        <img src="assets/img/logo.png" alt="" />
+        <img src="assets/img/logo.png" alt=""/>
       </a>
     </div>
     <!-- end navbar-header -->
@@ -98,7 +100,7 @@
 
       <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-          <span class="top-label label label-success">4</span>  <i class="fa fa-tasks fa-3x"></i>
+          <span class="top-label label label-success">4</span> <i class="fa fa-tasks fa-3x"></i>
         </a>
         <!-- dropdown tasks -->
         <ul class="dropdown-menu dropdown-tasks">
@@ -110,7 +112,8 @@
                   <span class="pull-right text-muted">40% Complete</span>
                 </p>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0"
+                       aria-valuemax="100" style="width: 40%">
                     <span class="sr-only">40% Complete (success)</span>
                   </div>
                 </div>
@@ -126,7 +129,8 @@
                   <span class="pull-right text-muted">20% Complete</span>
                 </p>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
+                  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="20" aria-valuemin="0"
+                       aria-valuemax="100" style="width: 20%">
                     <span class="sr-only">20% Complete</span>
                   </div>
                 </div>
@@ -142,7 +146,8 @@
                   <span class="pull-right text-muted">60% Complete</span>
                 </p>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                       aria-valuemax="100" style="width: 60%">
                     <span class="sr-only">60% Complete (warning)</span>
                   </div>
                 </div>
@@ -158,7 +163,8 @@
                   <span class="pull-right text-muted">80% Complete</span>
                 </p>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                       aria-valuemax="100" style="width: 80%">
                     <span class="sr-only">80% Complete (danger)</span>
                   </div>
                 </div>
@@ -178,7 +184,7 @@
 
       <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-          <span class="top-label label label-warning">5</span>  <i class="fa fa-bell fa-3x"></i>
+          <span class="top-label label label-warning">5</span> <i class="fa fa-bell fa-3x"></i>
         </a>
         <!-- dropdown alerts-->
         <ul class="dropdown-menu dropdown-alerts">
@@ -276,7 +282,7 @@
             </div>
             <div class="user-info">
               <c:if test="${pageContext.request.userPrincipal.name != null}">
-                  Chào :${pageContext.request.userPrincipal.name}
+                Chào :${pageContext.request.userPrincipal.name}
               </c:if>
               <div class="user-text-online">
                 <span class="user-circle-online btn btn-success btn-circle "></span>&nbsp;Online
@@ -301,7 +307,7 @@
           <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i>QUẢN LÝ SẢN PHẨM<span class="fa arrow"></span></a>
           <ul class="nav nav-second-level">
             <li>
-              <a href="/Admin/PRODUCT#">Sản phẩm</a>
+              <a href="<c:url value="/admin/productInventory"/>">Sản phẩm</a>
             </li>
             <li>
               <a href="/Admin/CATEGORY#">Nhóm sản phẩm</a>

@@ -16,13 +16,10 @@
   <link href="/resources/assets/css/jquery-ui.css" rel="stylesheet" />
   <script type="text/javascript" src="/resources/assets/js/jquery-2.1.4.min.js"></script>
   <script src="/resources/assets/js/jquery-ui.js"></script>
-  <link href="/resources/assets/css/bootstrap.css" rel="stylesheet" />
+  <link href="/resources/assets/css/bootstrap.min.css" rel="stylesheet" />
   <link href="/resources/assets/css/style.css" rel="stylesheet" media="all" />
   <link href="/resources/assets/css/font-awesome.css" rel="stylesheet" />
   <link href="/resources/assets/css/easy-responsive-tabs.css" rel="stylesheet" />
-
-  <!-- Optional theme -->
-  <%--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">--%>
 
   <script src="/resources/admin/plugins/bootstrap/bootstrap.min.js"></script>
 
